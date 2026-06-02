@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+	<Activities>
+		<Activity Sport="Walking">
+			<Id>2020-11-16T14:03:42Z</Id>
+			<Lap StartTime="2020-11-16T14:03:42Z">
+				<TotalTimeSeconds>1772</TotalTimeSeconds>
+				<DistanceMeters>1546.07080078125</DistanceMeters>
+				<Calories>76</Calories>
+				<Track>
+					<Trackpoint>
+						<Time>2020-11-16T14:03:42Z</Time>
+						<Position>
+							<LatitudeDegrees>39.90820049903663</LatitudeDegrees>
+							<LongitudeDegrees>116.39098426173764</LongitudeDegrees>
+						</Position>
+						<AltitudeMeters>0</AltitudeMeters>
+					</Trackpoint>
+					<Trackpoint>
+						<Time>2020-11-16T14:33:14Z</Time>
+						<Position>
+							<LatitudeDegrees>39.90820049903663</LatitudeDegrees>
+							<LongitudeDegrees>116.39098426173764</LongitudeDegrees>
+						</Position>
+						<AltitudeMeters>0</AltitudeMeters>
+					</Trackpoint>
+				</Track>
+			</Lap>
+		</Activity>
+	</Activities>
+</TrainingCenterDatabase>

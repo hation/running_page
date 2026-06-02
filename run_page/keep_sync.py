@@ -64,6 +64,10 @@ def login(session, mobile, password):
         token = r.json()["data"]["token"]
         headers["Authorization"] = f"Bearer {token}"
         return session, headers
+    else:
+        print(f"Login failed with status code: {r.status_code}")
+        print(f"Response: {r.text}")
+        return None
 
 
 def get_to_download_runs_ids(session, headers, sport_type):
