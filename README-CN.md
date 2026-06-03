@@ -1427,6 +1427,7 @@ Actions [源码](https://github.com/yihong0618/running_page/blob/master/.github/
 
 # 特别感谢
 
+- @[yihong0618](https://github.com/yihong0618) 创建了这个优秀的跑步页面项目
 - @[flopp](https://github.com/flopp) 特别棒的项目 [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)
 - @[danpalmer](https://github.com/danpalmer) 原始的 UI 设计
 - @[shaonianche](https://github.com/shaonianche) icon 设计及文档

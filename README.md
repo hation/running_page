@@ -41,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/15976103/98808834-c02f1d80-2457-11eb-9a7c-70e91faa5e30.gif" alt="demo" width="800">
 </p>
 
-English | [简体中文](https://github.com/yihong0618/running_page/blob/master/README-CN.md)
+English | [简体中文](https://github.com/hation/running_page/blob/master/README-CN.md)
 
 ## [Runner's Page Show](https://github.com/yihong0618/running_page/issues/12)
 
@@ -1304,6 +1304,7 @@ Before submitting PR:
 
 # Special thanks
 
+- @[yihong0618](https://github.com/yihong0618) for creating this amazing running page project
 - @[flopp](https://github.com/flopp) great repo [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)
 - @[danpalmer](https://github.com/danpalmer) UI design
 - @[shaonianche](https://github.com/shaonianche) icon design and doc
