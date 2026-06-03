@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: "ganxin's Running Page",
   siteUrl: 'https://hation.github.io/running_page',
-  logo: 'https://avatars.githubusercontent.com/u/你的GitHub用户ID?v=4',
+  logo: 'https://avatars.githubusercontent.com/u/19232521?v=4',
   description: 'Personal running data visualization and tracking',
   navLinks: [
     {
