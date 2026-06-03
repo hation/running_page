@@ -32,7 +32,7 @@ R.I.P. 希望大家都能健康顺利的跑过终点，逝者安息。
 
 # [打造个人跑步主页](https://yihong.run/running)
 
-[English](README.md) | 简体中文 | [Wiki](https://wiki.mfydev.run/)
+[English](README.md) | 简体中文
 
 <details>
 <summary>GIF 展示</summary>
